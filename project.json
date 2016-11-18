@@ -1,0 +1,50 @@
+[
+{<!DOCTYPE html>
+	//"NAME": MASTER PROJECT
+	//"SUB HEADING": :VIDEO <a href="https://youtu.be/zCPu-9vrZf4"></a>
+	//"SUB HEADING": PROJECTS
+	//"SUB HEADING": SLIDES
+	//"SUB HEADING": ABOUT
+<html>
+<head>
+	<h1><strong>MASTER PROJECT</strong></h1>
+	<h2><strong>VIDEO</strong></h2><a href="https://youtu.be/zCPu-9vrZf4"></a>
+<h2><strong>PROJECTS</strong><h2><a href="https://4geeksacademy.co/en/courses/"></a>
+<h2>strong>slides</strong><h2><a href="http://slides.com/davidkhourshid/deck-17#/"</a>
+<h2><strong>ABOUT</strong></h2><a href="https://4geeksacademy.co/en/about/"</a>
+</head>
+}
+}
+
+<style>
+body {
+    background-color: #93B874;
+}
+h1 {
+    background-color: orange;
+}
+p {
+    background-color: blue;
+
+</style>
+
+}
+
+
+
+[ <body>
+"THUMB": LOGO IMG
+"FULL SIZE": FS LOGO IMG
+]
+
+<p>Lorem ipsum dolor sit amet, discere diceret erroribus mei ut, usu et tempor neglegentur. Primis verterem interesset et pri. At omnes maiorum fierent sea, ut agam admodum per. Epicuri quaestio nam in. Aeque deserunt disputando et his, cum voluptaria signiferumque at.
+
+Rebum summo no sea. Pri ad modo admodum sapientem, has mazim dicant et. Nec cu etiam volumus, vim detracto erroribus no. Mea cu vidit iuvaret.
+
+Te usu homero mentitum, augue impetus disputationi ex eos. Modus voluptaria nec ex, usu euismod singulis ea. Eum sumo exerci fierent cu, latine deseruisse an duo. No vix 
+</p>
+}
+</body>
+</html>
+]
+

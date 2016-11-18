@@ -1,0 +1,24 @@
+function getEmployees(){
+	
+	var generatedEmployees = [
+{"name: Melissa", "age":39},
+{"name: Danielle", "age":26},
+{"name: Santiago", "age":32},
+{"name: Karen", "age":26},
+{"name: Earle", "age":45},
+
+];
+	
+	return generatedEmployees;
+	function calculate(){
+var employees = getEmployees()
+
+
+
+	}
+
+	var total = 0;
+for(var i = 0; i <generatedEmployees.length; i++) {
+    total += generatedEmployees[i];
+}
+var avg = total / generatedEmployees.length;

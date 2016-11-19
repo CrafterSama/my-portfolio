@@ -6,7 +6,7 @@
 
 
 body {
-background-image: url("../img/010101.jpg") ; opacity: 0.8; filter:alpha(opacity=80);
+background-image: url("../img/010101.jpg") ; 
     background-color: #e6f2ff;
 }
 h1 {

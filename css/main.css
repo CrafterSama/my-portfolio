@@ -15,24 +15,9 @@ h1 {
 p {
     background-color: #cce5ff;
 }
-}
-#imagetoslide{
-	.responsive-image {
-                          height: auto;
-                          width: 100%;
-	
-}
-#rightArrow{
+
+#rightarrowcontainer{
+text-align: right;
 
 }
 
-
-div {
-    background: rgba(76, 175, 80, 0.3) /* Green background with 30% opacity */
-}
-
-
-
-opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
